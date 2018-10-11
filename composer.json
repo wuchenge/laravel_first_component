@@ -10,14 +10,14 @@
     }],
     "autoload":
     {
-        "psr-r":
+        "psr-4":
         {
             "Wuchenge\\Test": "src/"
         }
     },
     "autoload-dev":
     {
-        "psr-r":
+        "psr-4":
         {
             "Wuchenge\\Test\\Tests": "tests/"
         }
