@@ -3,27 +3,21 @@
     "description": "laravel test component",
     "license": "MIT",
     "version": "1.0.0",
-    "authors": [
-    {
+    "authors": [{
         "name": "无尘阁",
         "email": "ligui0506@126.com"
     }],
-    "autoload":
-    {
-        "psr-4":
-        {
+    "autoload": {
+        "psr-4": {
             "Wuchenge\\Test": "src/"
         }
     },
-    "autoload-dev":
-    {
-        "psr-4":
-        {
+    "autoload-dev": {
+        "psr-4": {
             "Wuchenge\\Test\\Tests": "tests/"
         }
     },
-    "require":
-    {
+    "require": {
         "laravel": ">=5.5"
     }
 }
