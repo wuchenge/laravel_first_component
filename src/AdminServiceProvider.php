@@ -1,11 +1,11 @@
 <?php
+namespace Wuchenge\Test;
 
 /**
  * @Author: wuchenge
  * @Date: 2018-10-11 11:15:42
  */
 
-namespace Wuchenge\Test;
 
 use Illuminate\Support\ServiceProvider;
 
