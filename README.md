@@ -4,4 +4,8 @@
 
 # 安装
 
-> 应该和普通的安装一样吧.
+* composer require wuchenge/test
+* config/app.php providers 中添加 Wuchenge\Test\AdminServiceProvider::class,
+
+## 运行
+> app('admin')->printRunning();
