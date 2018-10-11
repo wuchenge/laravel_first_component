@@ -9,12 +9,12 @@
     }],
     "autoload": {
         "psr-4": {
-            "Wuchenge\\Test": "src/"
+            "Wuchenge\\Test\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Wuchenge\\Test\\Tests": "tests/"
+            "Wuchenge\\Test\\Tests\\": "tests/"
         }
     },
     "require": {
