@@ -2,6 +2,7 @@
     "name": "wuchenge/test",
     "description": "laravel test component",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
     {
         "name": "无尘阁",
