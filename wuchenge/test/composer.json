@@ -1,0 +1,26 @@
+{
+    "name": "wuchenge/test",
+    "description": "laravel test component",
+    "license": "MIT",
+    "authors": [
+    {
+        "name": "无尘阁",
+        "email": "ligui0506@126.com"
+    }],
+    "autoload":
+    {
+        "psr-r":
+        {
+            "Wuchenge\\Test": "src/"
+        }
+    },
+    "autoload-dev":
+    {
+        "psr-r":
+        {
+            "Wuchenge\\Test\\Tests": "tests/"
+        }
+    },
+    "require":
+    {}
+}
